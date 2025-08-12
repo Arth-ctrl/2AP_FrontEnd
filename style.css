@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     padding: 0;
@@ -16,5 +17,14 @@ footer{
     height: 5vh;
 }
 .contPrincp{
+    width: 101%;
     display: flex;
+    grid-template-columns: 1fr 2fr;
+    gap: 5%;
+}
+h2{
+    font-size: ;
+    font-family: ;
+    color: indigo;
+    text-align: right;
 }
